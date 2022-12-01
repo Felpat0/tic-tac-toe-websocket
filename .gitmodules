@@ -1,0 +1,6 @@
+[submodule "websocket-tris-frontend"]
+	path = websocket-tris-frontend
+	url = https://github.com/Felpat0/websocket-tris-frontend.git
+[submodule "websocket-tris-server"]
+	path = websocket-tris-server
+	url = https://github.com/Felpat0/websocket-tris-server
